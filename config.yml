@@ -193,10 +193,10 @@ messages:
   #   {cpu} to insert CPU information
   #   {ram} to insert RAM size
   # Any other words in curly braces will be removed.
-  greeting: "#savenikitosikbots" # Message sent to the opponent at the beginning of a game.
-  goodbye: "#savenikitosikbots"                                             # Message sent to the opponent after the end of a game.
-  greeting_spectators: "#savenikitosikbots" # Message sent to the spectators at the beginning of a game.
-  goodbye_spectators: "#savenikitosikbots"                                           # Message sent to the spectators after the end of a game.
+  greeting: "" # Message sent to the opponent at the beginning of a game.
+  goodbye: ""                                             # Message sent to the opponent after the end of a game.
+  greeting_spectators: "" # Message sent to the spectators at the beginning of a game.
+  goodbye_spectators: ""                                           # Message sent to the spectators after the end of a game.
 
 whitelist:                                # List of users whose challenges are always accepted.
 # - Username1
